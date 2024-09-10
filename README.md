@@ -3,7 +3,7 @@
 I'm **Oyoenisai Andrew-Essien**, a seasoned marketing professional with extensive experience managing multi-layered marketing and product campaigns across international markets. Recently, I have developed a keen interest in front-end web development and data analysis.
 
 ### About Me
-- 💻 **Web Developer**: Knowledgeable in ```HTML``` ```CSS``` ```JavaScript``` ```Tailwind-CSS``` ```React.js``` ```Node.js``` ```GitHub```.
+- 💻 **Web Developer**: Knowledgeable in ```HTML``` ```CSS``` ```JavaScript``` ```Tailwind-CSS``` ```React.js``` ```Bootstrap``` ```Node.js``` ```GitHub```.
 - 📊 **Data Enthusiast**: Passionate about ```SQL``` ```data mining``` ```data visualization```.
 - 🌍 **Marketing Expert**: Expertise in ```growth and product marketing``` ```research and analysis``` ```lead and demand generation``` ```content and copywriting```.
 - 🔧 **Marketing Tools**: Experienced in ```SAP``` ```Marketo``` ```Umbraco``` ```Dotmailer``` ```Hootsuite``` ```Content management tools``` ```Drupal``` ```Salesforce``` ```Microsoft D365``` ```Power BI``` ```LinkedIn Sales Navigator``` ```Zaplify``` ```Google Analytics```.
