@@ -1,6 +1,6 @@
 # Hi there👋 Welcome to My GitHub Profile!
 
-I'm **Oyoenisai Andrew-Essien**, a seasoned marketing professional with extensive experience managing multi-layered marketing and product campaigns across international markets. Recently, I have developed a keen interest in front-end web development and data analysis.
+I'm **Oyoenisai Andrew-Essien**, a front-end developer and a seasoned marketing professional with extensive experience managing multi-layered marketing and product campaigns across international markets. Recently, I have developed a keen interest in front-end web development and data analysis.
 
 ### About Me
 - 💻 **Web Developer**: Knowledgeable in ```HTML``` ```CSS``` ```JavaScript``` ```Tailwind-CSS``` ```React.js``` ```Bootstrap``` ```Node.js``` ```GitHub```.
