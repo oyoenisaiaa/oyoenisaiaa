@@ -14,7 +14,7 @@ I'm **Oyoenisai Andrew-Essien**, a developer and a seasoned marketing profession
 
 ### Fun Facts
 - 🚀 I worked closely with a product, engineering, and sales team to create awareness, promote, and distribute a newly built next-generation satellite constellation.
-- 🏆 Received a CEO Award for introducing a D&I initiative to an organization.
+- 🏆 Received a CEO Award for introducing an empowerment initiative to an organization.
 - 🎤 I am a platinum facilitator for [#IAmRemarkable](https://www.rmrkblty.org/iamremarkable), a global ambassador and mentor for [Women Techmakers (a Google initiative)](https://developers.google.com/womentechmakers), [WomenTech Network](https://www.womentech.net/user/30286) and [Empower Women in Tech Alliance (EWTA)](https://www.spectrumnorth.ca/empowerwomenintechalliance-getinvolved).
 - 🎶 Music Lover: I sing and have been doing this since childhood. I am currently singing in a church worship team/choir.
 - 🍕 Foodie: I love trying out new recipes and cuisines. Seafood is my favorite!
